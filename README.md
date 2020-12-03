@@ -1,4 +1,4 @@
-# BMK_JAVA_poi.msword
+# EAK_JAVA_poi.msword
 
 Программа формирования оригинального отчета (заполненного бланка) в MS Word с использованием Apache POI<br/>
 
